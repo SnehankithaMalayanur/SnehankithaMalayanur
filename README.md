@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SnehankithaMalayanur
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning Cloud development
-- 💞️ I’m looking to collaborate on innovative project
+- 🌱 I’m currently learning Web development, Cloud development
+- 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me https://www.linkedin.com/in/snehankitha-malayanur-03b2801b1/
 
 <!---
