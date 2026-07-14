@@ -12,7 +12,7 @@ Currently looking for a paid R&D project (Werkstudentin / Praktikum) in **Human-
 - Statistical experimentation & evaluation for robotics
 - Machine learning applied to robotic systems
 
-**Tools & stack:** ROS 2 · Python · Gazebo · OpenCV · NumPy/SciPy · TensorFlow · C++ · Git
+**Tools & stack:** ROS 2 · Python · Gazebo · OpenCV · NumPy/SciPy · TensorFlow · C++ · Git · pyAgrum · MATLAB · Linux
 
 ---
 
@@ -23,8 +23,7 @@ Currently looking for a paid R&D project (Werkstudentin / Praktikum) in **Human-
 
 
 ---
-**Stack:** Python · ROS2 · OpenCV · TensorFlow · pyAgrum · MATLAB · Linux
-----
+
 
 ### 📫 Reach me
 
