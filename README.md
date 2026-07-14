@@ -1,7 +1,7 @@
 ## Hi, I'm Snehankitha 👩‍💻
 
 **M.Sc. Autonomous Systems · Hochschule Bonn-Rhein-Sieg**  
-Currently looking for a paid R&D project (Werkstudentin / Praktikum) in **Human-Robot Interaction**, robot behavior adaptation, or autonomous systems — Bonn/Cologne/NRW area.
+Currently looking for a paid R&D project (Werkstudentin / Praktikum) in **Human-Robot Interaction**, robot behavior adaptation, or autonomous systems - Bonn/Cologne/NRW area.
 
 ---
 
@@ -17,9 +17,9 @@ Currently looking for a paid R&D project (Werkstudentin / Praktikum) in **Human-
 ---
 
 ### What I've built:###
-- 🤖 [AMR Navigation Stack](https://github.com/SnehankithaMalayanur/autonomous-mobile-robot-nav) — A*, MCL, SLAM & frontier exploration (real Robile robot + ROS2)
-- 📐 [Sensor Calibration & Error Propagation](https://github.com/SnehankithaMalayanur/sensor-calibration-error-propagation) — Jacobian uncertainty, camera calibration, PCA
-- 😊 [Emotion-Aware HRI](https://github.com/SnehankithaMalayanur/Emotion-Aware-HRI) — real-time emotion recognition for adaptive robot behaviour
+- 🤖 [AMR Navigation Stack](https://github.com/SnehankithaMalayanur/autonomous-mobile-robot-nav) - A*, MCL, SLAM & frontier exploration (real Robile robot + ROS2)
+- 📐 [Sensor Calibration & Error Propagation](https://github.com/SnehankithaMalayanur/sensor-calibration-error-propagation) - Jacobian uncertainty, camera calibration, PCA
+- 😊 [Emotion-Aware HRI](https://github.com/SnehankithaMalayanur/Emotion-Aware-HRI) - real-time emotion recognition for adaptive robot behaviour
 
 
 ---
