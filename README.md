@@ -1,7 +1,7 @@
 ## Hi, I'm Snehankitha 👩‍💻
 
 **M.Sc. Autonomous Systems · Hochschule Bonn-Rhein-Sieg**  
-Currently looking for a paid R&D project (Werkstudentin / Praktikum) in **Human-Robot Interaction**, robot behavior adaptation, or autonomous systems — Bonn/Cologne area.
+Currently looking for a paid R&D project (Werkstudentin / Praktikum) in **Human-Robot Interaction**, robot behavior adaptation, or autonomous systems — Bonn/Cologne/NRW area.
 
 ---
 
@@ -16,17 +16,15 @@ Currently looking for a paid R&D project (Werkstudentin / Praktikum) in **Human-
 
 ---
 
-### 📌 Featured projects
+### What I've built:###
+- 🤖 [AMR Navigation Stack](https://github.com/SnehankithaMalayanur/autonomous-mobile-robot-nav) — A*, MCL, SLAM & frontier exploration (real Robile robot + ROS2)
+- 📐 [Sensor Calibration & Error Propagation](https://github.com/SnehankithaMalayanur/sensor-calibration-error-propagation) — Jacobian uncertainty, camera calibration, PCA
+- 😊 [Emotion-Aware HRI](https://github.com/SnehankithaMalayanur/Emotion-Aware-HRI) — real-time emotion recognition for adaptive robot behaviour
 
-**[AMR Navigation — A\*, MCL & Frontier Exploration](https://github.com/HBRS-AMR/amr-ss25-projects-intelligent-bots)**  
-Implemented A\* global planner, potential field local planner, and custom Monte Carlo Localization particle filter on the real Robile robot platform using ROS 2 Humble. Validated in both Gazebo simulation and real-world indoor environments.  
-`ROS 2` `Python` `SLAM` `LiDAR` `Particle Filter` `Gazebo`
-
-**[Robot Pose Estimation — Statistical Experimentation & Evaluation](#)** *(repo coming soon)*  
-225-trial experiment on LEGO EV3 and KUKA youBot with OptiTrack motion capture. Jacobian error propagation, PCA, Gaussian fitting, Chebyshev outlier removal, and camera calibration using OpenCV.  
-`Python` `OpenCV` `SciPy` `PCA` `Statistical Analysis` `OptiTrack`
 
 ---
+**Stack:** Python · ROS2 · OpenCV · TensorFlow · pyAgrum · MATLAB · Linux
+----
 
 ### 📫 Reach me
 
